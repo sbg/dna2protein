@@ -1,4 +1,4 @@
-src ="/SB_logo_navy.jpg" width ="300" align="center">
+<img src ="/SB_logo_navy.jpg" width ="300" align="center">
 
 # Introduction
 This tutorial illustrates how to add custom tools to the Seven Bridges Platform or Cancer Genomics Cloud using a Dockerfile.
