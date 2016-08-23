@@ -24,7 +24,7 @@ For instructions on using Dockerfiles to upload an image to the **Cancer Genomic
 2. Select **Download ZIP**.
 The files will be downloaded to your computer.
 
-* [Back to the tutorial for the Seven Bridges Platform](http://docs.sevenbridges.com/v1.0/docs/worked-example-of-uploading-a-custom-python-program), or
+* [Back to the tutorial for the Seven Bridges Platform](http://docs.sevenbridges.com/v1.0/docs/worked-example-of-uploading-a-custom-python-program),
 * [Back to the tutorial the Cancer Genomics Cloud](http://docs.cancergenomicscloud.org/v1.0/docs/worked-example-of-uploading-a-custom-python-program).
 
 
