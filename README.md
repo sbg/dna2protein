@@ -1,5 +1,5 @@
-<img src ="https://www.sbgenomics.com/media/uploads/brand/sb_logosq_rgb_web_white.png" width ="300" align="center">
- +<a href = "https://www.sbgenomics.com/"><img src ="/SB_logo_navy.jpg" width ="300" align="center"></a>
+
+ <a href = "https://www.sbgenomics.com/"><img src ="https://www.sbgenomics.com/media/uploads/brand/sb_logosq_rgb_web_white.png" width ="300" align="center"></a>
    
 
 # Introduction
