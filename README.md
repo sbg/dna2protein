@@ -1,4 +1,4 @@
-<a href = "https://www.sbgenomics.com/"><img src ="/SB_logo_navy.jpg" width ="300" align="center"></a>
+<a href = "https://www.sbgenomics.com/"><img src ="https://drive.google.com/file/d/0B8Ko6ojXxxUrenRQeEFpOGtXSWM/view?usp=sharing" width ="300" align="center"></a>
 
 # Introduction
 This tutorial illustrates how to add custom tools to the Seven Bridges Platform or Cancer Genomics Cloud using a Dockerfile.
