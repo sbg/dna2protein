@@ -3,7 +3,7 @@ import argparse
 import re
 
 
-VERSION = "0.5.6"
+VERSION = "0.5.6.dev"
 FILENAME_OUTPUT = "rna.txt"
 
 def transcribe(args):

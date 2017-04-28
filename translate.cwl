@@ -24,7 +24,7 @@ outputs:
       glob: protein.txt
 requirements:
   - class: DockerRequirement
-    dockerPull: 'sevenbridges/dna2protein:0.5.5'
+    dockerPull: 'sevenbridges/dna2protein:0.5.6'
   - class: InitialWorkDirRequirement
     listing: []
 stdout: translate.log
